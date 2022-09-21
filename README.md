@@ -2,7 +2,7 @@
 
 1. SEQUENCES
 
-2. [CHARACTER CONVERSION]("[C_BASICS/Variables at main · OkolieOKS234/C_BASICS · GitHub](https://github.com/OkolieOKS234/C_BASICS/tree/main/Variables)")
+2. [CHARACTER CONVERSION](https://github.com/OkolieOKS234/C_BASICS)
 
 3. VARIABLES
 
